@@ -1,0 +1,16 @@
+#ID	Database	Run	Platform	R1	R2
+WhiteDorper	NCBI	SRR17188173	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/073/SRR17188173/SRR17188173_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/073/SRR17188173/SRR17188173_2.fastq.gz
+Ujimqin	NCBI	SRR17188203	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/003/SRR17188203/SRR17188203_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/003/SRR17188203/SRR17188203_2.fastq.gz
+Texel	NCBI	SRR16998307	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR169/007/SRR16998307/SRR16998307_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR169/007/SRR16998307/SRR16998307_2.fastq.gz
+Kazak	NCBI	SRR17035345	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/045/SRR17035345/SRR17035345_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/045/SRR17035345/SRR17035345_2.fastq.gz
+PolledDorset	NCBI	SRR17023436	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/036/SRR17023436/SRR17023436_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/036/SRR17023436/SRR17023436_2.fastq.gz
+EastFriesian	NCBI	SRR14226310	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR142/010/SRR14226310/SRR14226310_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR142/010/SRR14226310/SRR14226310_2.fastq.gz
+Suffolk	NCBI	SRR17165101	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/001/SRR17165101/SRR17165101_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/001/SRR17165101/SRR17165101_2.fastq.gz
+ChinieseMerino	NCBI	SRR17152797	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/097/SRR17152797/SRR17152797_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/097/SRR17152797/SRR17152797_2.fastq.gz
+Qiaoke	NCBI	SRR17155231	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/031/SRR17155231/SRR17155231_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/031/SRR17155231/SRR17155231_2.fastq.gz
+Romney	NCBI	SRR17155254	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/054/SRR17155254/SRR17155254_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/054/SRR17155254/SRR17155254_2.fastq.gz
+Charollais	NCBI	SRR17138945	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/045/SRR17138945/SRR17138945_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/045/SRR17138945/SRR17138945_2.fastq.gz
+Yunnan	NCBI	SRR17138953	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/053/SRR17138953/SRR17138953_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/053/SRR17138953/SRR17138953_2.fastq.gz
+Kermani	NCBI	SRR17139386	ILLUMINA_HiSeq_X_Ten	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/086/SRR17139386/SRR17139386_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/086/SRR17139386/SRR17139386_2.fastq.gz
+Waggir	NCBI	SRR25904058	BGISEQ-500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR259/058/SRR25904058/SRR25904058_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR259/058/SRR25904058/SRR25904058_2.fastq.gz
+Romanov	NCBI	SRR25905502	BGISEQ-500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR259/002/SRR25905502/SRR25905502_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR259/002/SRR25905502/SRR25905502_2.fastq.gz

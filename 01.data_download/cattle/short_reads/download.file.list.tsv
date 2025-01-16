@@ -1,0 +1,17 @@
+#ID	DataBase	Run	Platform	R1	R2
+Yiling	NCBI	SRR17318620	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/020/SRR17318620/SRR17318620_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/020/SRR17318620/SRR17318620_2.fastq.gz
+Xiangxi	NCBI	SRR17318621	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/021/SRR17318621/SRR17318621_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/021/SRR17318621/SRR17318621_2.fastq.gz
+Wenshangaofeng	NCBI	SRR17318622	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/022/SRR17318622/SRR17318622_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/022/SRR17318622/SRR17318622_2.fastq.gz
+Weizhou	NCBI	SRR17318623	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/023/SRR17318623/SRR17318623_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/023/SRR17318623/SRR17318623_2.fastq.gz
+Weining	NCBI	SRR17318624	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/024/SRR17318624/SRR17318624_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/024/SRR17318624/SRR17318624_2.fastq.gz
+Lincanggaofeng	NCBI	SRR17318625	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/025/SRR17318625/SRR17318625_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/025/SRR17318625/SRR17318625_2.fastq.gz
+Leiqiong	NCBI	SRR17318626	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/026/SRR17318626/SRR17318626_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/026/SRR17318626/SRR17318626_2.fastq.gz
+Jinjiang	NCBI	SRR17318627	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/027/SRR17318627/SRR17318627_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/027/SRR17318627/SRR17318627_2.fastq.gz
+Guanling	NCBI	SRR17318628	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/028/SRR17318628/SRR17318628_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/028/SRR17318628/SRR17318628_2.fastq.gz
+Dabieshan	NCBI	SRR17318630	Illumina_HiSeq_2500	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/030/SRR17318630/SRR17318630_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR173/030/SRR17318630/SRR17318630_2.fastq.gz
+OxO	NCBI	ERR6890252	Illumina_NovaSeq_6000	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR689/002/ERR6890252/ERR6890252_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR689/002/ERR6890252/ERR6890252_2.fastq.gz
+NxB	NCBI	ERR4854281	Illumina_NovaSeq_6000	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR485/001/ERR4854281/ERR4854281_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR485/001/ERR4854281/ERR4854281_2.fastq.gz
+Yunling	NCBI	SRR24831395	BGISEQ_DNBSEQ-T7	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR248/095/SRR24831395/SRR24831395_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR248/095/SRR24831395/SRR24831395_2.fastq.gz
+Charolais	NCBI	ERR10310247	Illumina_MiSeq	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/047/ERR10310247/ERR10310247_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/047/ERR10310247/ERR10310247_2.fastq.gz
+Charolais	NCBI	ERR10310250	Illumina_MiSeq	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/050/ERR10310250/ERR10310250_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR103/050/ERR10310250/ERR10310250_2.fastq.gz
+Holstein	Genome_Sequence_Archive	CRR476868	Illumina_HiSeq_X_Ten	ftp://download.big.ac.cn/gsa2/CRA006888/CRR476868/CRR476868_f1.fq.gz	ftp://download.big.ac.cn/gsa2/CRA006888/CRR476868/CRR476868_r2.fq.gz

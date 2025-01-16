@@ -1,0 +1,16 @@
+#ID	DataBase	Run	Platform	link
+WhiteDorper	NCBI	SRR17188174	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/074/SRR17188174/SRR17188174_subreads.fastq.gz
+Ujimqin	NCBI	SRR17188204	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/004/SRR17188204/SRR17188204_subreads.fastq.gz
+Texel	NCBI	SRR16998308	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR169/008/SRR16998308/SRR16998308_subreads.fastq.gz
+Kazak	NCBI	SRR17035346	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/046/SRR17035346/SRR17035346_subreads.fastq.gz
+PolledDorset	NCBI	SRR17023437	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/037/SRR17023437/SRR17023437_subreads.fastq.gz
+EastFriesian	NCBI	SRR14226309	PACBIO_Sequel_II	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR14226309/SRR14226309	
+Suffolk	NCBI	SRR17165102	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/002/SRR17165102/SRR17165102_subreads.fastq.gz
+ChinieseMerino	NCBI	SRR17152798	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/098/SRR17152798/SRR17152798_subreads.fastq.gz
+Qiaoke	NCBI	SRR17155232	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/032/SRR17155232/SRR17155232_subreads.fastq.gz
+Romney	NCBI	SRR17155255	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/055/SRR17155255/SRR17155255_subreads.fastq.gz
+Charollais	NCBI	SRR17138946	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/046/SRR17138946/SRR17138946_subreads.fastq.gz
+Yunnan	NCBI	SRR17138954	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/054/SRR17138954/SRR17138954_subreads.fastq.gz
+Kermani	NCBI	SRR17139387	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/087/SRR17139387/SRR17139387_subreads.fastq.gz
+Waggir	NCBI	SRR25904059	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR259/059/SRR25904059/SRR25904059_subreads.fastq.gz
+Romanov	NCBI	SRR25905503	PACBIO_Sequel_II	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR259/003/SRR25905503/SRR25905503_subreads.fastq.gz
